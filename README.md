@@ -1,5 +1,10 @@
 # World Weather Analysis
 
+## The Possibilities
+
+![Possibilities](https://github.com/Dhanushree27/World_Weather_Analysis/blob/main/Vacation%20Search/WeatherPy_vacation_map.PNG)
+
+
 The purpose of this analysis is to collect data to recommend hotels for clients based on their weather preferences. For this analysis:
 
 a. Random list of latitudes and longitudes were generated.
@@ -17,3 +22,7 @@ f. The list of places was displayed on maps using google maps api.
 g. An itinerary was created for four places and the route for travel was displayed on map using google directions api, via gmaps.
 
 h. The marker information for places on the itinerary was also displayed.
+
+## A Suggestion
+
+![Suggestion](https://github.com/Dhanushree27/World_Weather_Analysis/blob/main/Vacation%20Itinerary/WeatherPy_travel_map_markers.png)
